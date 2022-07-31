@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pizza_delivery_app/static/css/main.1b262020.css",
+    "main.js": "/Pizza_delivery_app/static/js/main.c2bbf702.js",
+    "static/media/bg.jpg": "/Pizza_delivery_app/static/media/bg.38f4b3510c1c2bf3df46.jpg",
+    "index.html": "/Pizza_delivery_app/index.html",
+    "main.1b262020.css.map": "/Pizza_delivery_app/static/css/main.1b262020.css.map",
+    "main.c2bbf702.js.map": "/Pizza_delivery_app/static/js/main.c2bbf702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b262020.css",
+    "static/js/main.c2bbf702.js"
+  ]
+}
